@@ -3,5 +3,5 @@ This is a public repository for deep learning-based accurate segmentation of 2D 
 
 <b>Input</b>: Hyperspectral images and RGB images \
 <b>Output</b>: Multi-class segmentation map of 2D materials \
-<b>Model</b>: A two-stream convolutional neural network that fuses the dual-modal information \
+<b>Model</b>: A two-stream convolutional neural network that fuses the dual-modal information
 
