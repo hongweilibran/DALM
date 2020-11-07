@@ -18,5 +18,5 @@ where the 3D and 2D features after convolutional layers and 'Squeeze and Excitat
 
 
 ## How to train the network? 
-First, you will need to prepare your dataset, following the step introduced in the manuscript. \
+First, you will need to prepare your dataset, following the steps introduced in the manuscript. \
 Specifically, in our work the dimensions of the inputs are <b>[96, 96, 128, 1]</b>, and <b>[96, 96, 3]</b> for hyperspectral and RGB images respectively.  
