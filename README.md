@@ -6,5 +6,5 @@ This is a public repository for deep learning-based accurate segmentation of 2D 
 <b>Output</b>: Multi-class segmentation map of 2D materials \
 <b>Model</b>: A two-stream convolutional neural network that fuses the dual-modality information
 
-Specifically, in our work the dimensions of the inputs are [96, 96, 128, 1], and [96, 96, 3] for hyperspectral and RGB images respectively.  
+Specifically, in our work the dimensions of the inputs are <b>[96, 96, 128, 1]<b>, and <b>[96, 96, 3]<b> for hyperspectral and RGB images respectively.  
 
