@@ -14,9 +14,9 @@ The key architecture is defined in:
 ```
 model.py
 ```
-where the 3D and 2D image features are fused in one network and trained in an end-to-end manner. We also provide the codes of different fusion strategies if you wish to compare them. 
+where the 3D and 2D features after convolutional layers and 'Squeeze and Excitation' blocks are fused into one network and trained in an end-to-end manner. We also provide the codes of different fusion strategies in *model.py* if you wish to compare them. 
 
 
 ## How to train the network? 
-First, you will need to prepare your dataset. \
+First, you will need to prepare your dataset, following the step introduced in the manuscript. \
 Specifically, in our work the dimensions of the inputs are <b>[96, 96, 128, 1]</b>, and <b>[96, 96, 3]</b> for hyperspectral and RGB images respectively.  
