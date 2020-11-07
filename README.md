@@ -11,5 +11,5 @@ The key architecture is defined in
 ```
 model.py
 ```
-where we fuse the 3D and 2D image features in an end-to-end manner.
+where the 3D and 2D image features are fused in one network and trained in an end-to-end manner.
 
