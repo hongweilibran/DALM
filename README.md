@@ -10,8 +10,6 @@ This is a public repository for deep learning-based accurate segmentation of 2D 
 <b>Loss function</b>: Dice-coefficient loss \
 <b>Data augmentation</b>: random rotation, randomly cropping and randomly flipping 
 
-
-Specifically, in our work the dimensions of the inputs are <b>[96, 96, 128, 1]</b>, and <b>[96, 96, 3]</b> for hyperspectral and RGB images respectively.  
 The key architecture is defined in:
 ```
 model.py
@@ -20,4 +18,5 @@ where the 3D and 2D image features are fused in one network and trained in an en
 
 
 ## How to train the network? 
-First, you will need to prepare your dataset. 
+First, you will need to prepare your dataset. \
+Specifically, in our work the dimensions of the inputs are <b>[96, 96, 128, 1]</b>, and <b>[96, 96, 3]</b> for hyperspectral and RGB images respectively.  
