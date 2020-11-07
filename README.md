@@ -7,7 +7,9 @@ This is a public repository for deep learning-based accurate segmentation of 2D 
 <b>Model</b>: A two-stream convolutional neural network that fuses the dual-modality information
 
 Specifically, in our work the dimensions of the inputs are <b>[96, 96, 128, 1]</b>, and <b>[96, 96, 3]</b> for hyperspectral and RGB images respectively.  
-The key architecture is defined in 
+The key architecture is defined in
 ```
 model.py
 ```
+where we fuse the 3D and 2D image features in an end-to-end manner.
+
