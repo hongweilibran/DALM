@@ -7,7 +7,7 @@ This is a public repository for deep learning-based accurate segmentation of 2D 
 <b>Output</b>: multi-class segmentation map of 2D materials \
 <b>Model</b>: a two-stream convolutional neural network that fuses the dual-modality information \
 <b>Key components</b>: 3D convolution, 2D convolution, 'Squeeze and Excitation' block \
-<b>Loss function</b>: Dice-coefficient loss \ 
+<b>Loss function</b>: Dice-coefficient loss \
 <b>Data augmentation</b>: random rotation, randomly cropping and randomly flipping 
 
 
