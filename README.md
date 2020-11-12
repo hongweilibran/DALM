@@ -31,6 +31,15 @@ Thirdly, start to train the network with demo codes named 'train_net.py' via:
 python train_net.py
 
 ```
+## Inference stage
+
+When the training is done, the model and training curve are saved. 
+Then you can have a look at the results via:  
+```
+python test_net.py
+
+```
+Then you will get some numbers of the evaluation metrics include Dice scores and Hausdorff distance.
 
 
 
