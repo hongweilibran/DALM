@@ -1,5 +1,5 @@
 ## Description of the datasest
-The link to load the dataset: https://drive.google.com/drive/folders/1dgp5AVuzO9W-RlRtqOwHMXlX5bCX1zQ-?usp=sharing. 
+The link to download the dataset: https://drive.google.com/drive/folders/1dgp5AVuzO9W-RlRtqOwHMXlX5bCX1zQ-?usp=sharing. 
 
 The structure of the folders is:  \
 -DALM_datasets \
