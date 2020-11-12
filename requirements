@@ -1,0 +1,6 @@
+tensoflow-gpu==2.0.0
+keras==2.3.1
+matplotlib==2.23
+h5py
+imgaug
+pandas
