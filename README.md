@@ -19,6 +19,6 @@ where the 3D and 2D features after convolutional layers and 'Squeeze and Excitat
 
 ## How to train the network? 
 First, you will need to prepare your dataset, following the steps introduced in the manuscript. \
-Specifically, in our work the dimensions of the inputs are <b>[96, 96, 221, 1]</b> and <b>[96, 96, 3]</b> for hyperspectral images and RGB images (3 channels) respectively. To download the dataset and get to know the details, you can read the [description](github.com/hongweilibran/DALM/edit/main/ReadME_dataset.md) here.
+Specifically, in our work the dimensions of the inputs are <b>[96, 96, 221, 1]</b> and <b>[96, 96, 3]</b> for hyperspectral images and RGB images (3 channels) respectively. To download the dataset and get to know the details, you can read the [description](https://github.com/hongweilibran/DALM/blob/main/ReadME_dataset.md) here.
 
 
