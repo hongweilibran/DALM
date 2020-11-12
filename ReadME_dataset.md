@@ -1,7 +1,7 @@
 ## Description of the datasest
 The link to load the dataset: https://drive.google.com/drive/folders/1dgp5AVuzO9W-RlRtqOwHMXlX5bCX1zQ-?usp=sharing. 
 
-The structure of fold is:
+The structure of fold is:  \ 
 -DALM_datasets \
  --data  \ 
  --label\
